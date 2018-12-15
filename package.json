@@ -4,7 +4,9 @@
   "description": "",
   "main": "consumer.js",
   "dependencies": {
-    "@google-cloud/pubsub": "^0.22.2"
+    "@google-cloud/pubsub": "^0.22.2",
+    "dotstar": "^1.0.0",
+    "pi-spi": "^1.0.3"
   },
   "devDependencies": {},
   "scripts": {
