@@ -6,7 +6,8 @@
   "dependencies": {
     "@google-cloud/pubsub": "^0.22.2",
     "dotstar": "^1.0.0",
-    "pi-spi": "^1.0.3"
+    "pi-spi": "^1.0.3",
+    "rpi-gpio": "^2.1.2"
   },
   "devDependencies": {},
   "scripts": {
